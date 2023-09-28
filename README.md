@@ -9,7 +9,7 @@ Welcome to the To-Do List App repository! This simple and minimalist to-do list 
 
 - **Add and Remove Tasks**: You can easily add new tasks to your to-do list and remove them once they are completed. ✍️
 
-- **Minimalist Design**: We believe in keeping things simple and clutter-free. The app's design is minimalistic, focusing on functionality and usability. 🎨
+- **Minimalist Design**: I believe in keeping things simple and clutter-free. The app's design is minimalistic, focusing on functionality and usability. 🎨
 
 - **Local Storage**: Your tasks are stored locally in your browser, so you don't have to worry about losing them if you close the app or refresh the page. 💾
 
